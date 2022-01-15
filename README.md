@@ -9,7 +9,7 @@ pip install turtle
 
 pip install freegames
 
-pip install freegames
+pip install random2
 
 Install these library first before you run the code
 
